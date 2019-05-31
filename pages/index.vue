@@ -17,10 +17,11 @@ import survey from '../components/content/survey.vue';
 
 export default {
  components: {
-        NewsList,
-        wrappertab,
-        survey,
-    },
+     NewsList,
+     wrappertab,
+     survey
+ }
+
 }
 </script>
 
